@@ -1,0 +1,21 @@
+{
+  "name": "steam-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^2.4.1",
+    "ts-helpers": "^1.1.1"
+  },
+  "devDependencies": {
+    "tslint-eslint-rules": "^1.5.0",
+    "typescript": "^2.0.0",
+    "typings": "^1.4.0"
+  }
+}
